@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    background-color: gray;
+}
+.wikitable {
+    background-color: #f8f9fa;
+    color: #202122;
+    margin: 1em 0;
+    border: 1px solid #a2a9b1;
+    border-collapse: collapse;
+  }
