@@ -6,7 +6,6 @@ echo Launcher
 echo Calculator=1
 echo Notepad=2
 echo Command Prompt=3
-
 set /p start=what do you want to run:  
 if %start% == 1 (
 start calc.exe
