@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient(skyblue,red);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+    font-family: "Press Start 2P"
+}
